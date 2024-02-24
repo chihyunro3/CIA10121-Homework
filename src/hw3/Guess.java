@@ -27,5 +27,6 @@ public class Guess {
 			i = sc.nextInt();
 		}
 		System.out.println("答對了！");
+		sc.close();
 	}
 }

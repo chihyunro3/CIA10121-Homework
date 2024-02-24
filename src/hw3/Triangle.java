@@ -46,7 +46,7 @@ public class Triangle {
 		} else {
 			System.out.println("輸入錯誤，請輸入正整數");
 		}
-
+		sc.close();
 	}
 
 } //#巢哥
